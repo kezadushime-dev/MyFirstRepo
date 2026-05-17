@@ -1,0 +1,1 @@
+One important thing I have learned so far in this course is how Git and GitHub help organize work and make collaboration easier. I now better understand how to create repositories, track changes with commits, work on separate branches, and prepare changes to be shared with others through pull requests.
